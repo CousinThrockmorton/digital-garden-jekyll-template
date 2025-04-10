@@ -1,0 +1,6 @@
+---
+---
+
+This page is like a bike kitchen a digital-free space. Based on the stack of [[digital_gardening]] but expanding it to a [[common garden]], that you can change and add to, a space to aggregate and formulate a knowledge base on bike repair. This page is a knowledge base for [[Bike Kitchens]] all over the world. 
+
+This page will have a variety of resources you can use including [[practical repair]], [[maintenance]], and [[organisation]].
